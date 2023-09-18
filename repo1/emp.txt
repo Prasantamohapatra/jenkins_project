@@ -1,3 +1,0 @@
-No. Name  Batch Tool
-1   Naveen  x Jenkins
-2   Mohit   x   Sonarqube
